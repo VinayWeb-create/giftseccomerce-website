@@ -158,21 +158,9 @@ export const Footer: React.FC = () => {
         </div>
       </div>
 
-      {/* Copyright & Built by Vinay row */}
-      <div className="bg-[#FAF4EE] py-4 px-4 text-[11.5px] text-slate-600 border-t border-[#EADBCE]">
-        <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-3 text-center sm:text-left">
-          <div>
-            © 2026 Ajmer Gift Charm. All rights reserved. Handcrafted with royal pride in Ajmer, Rajasthan, India.
-          </div>
-          <div className="flex items-center gap-1.5 font-semibold text-slate-700">
-            <span>Built with</span>
-            <span className="text-[#D1395E] animate-pulse">❤️</span>
-            <span>by</span>
-            <span className="font-serif font-black text-[#D1395E] bg-rose-50 px-2.5 py-0.5 rounded-full border border-rose-200 shadow-2xs">
-              Vinay
-            </span>
-          </div>
-        </div>
+      {/* Copyright row */}
+      <div className="bg-[#FAF4EE] py-4 px-4 text-center text-[11.5px] text-slate-600 border-t border-[#EADBCE]">
+        © 2026 Ajmer Gift Charm. All rights reserved. Handcrafted with royal pride in Ajmer, Rajasthan, India.
       </div>
     </footer>
   );

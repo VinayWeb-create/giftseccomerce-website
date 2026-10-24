@@ -42,11 +42,3 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ```bash
 npm run build
 ```
-
----
-
-## 👨‍💻 Author
-
-**Built with ❤️ by Vinay**
-- GitHub: [@VinayWeb-create](https://github.com/VinayWeb-create)
-- Project: [giftseccomerce-website](https://github.com/VinayWeb-create/giftseccomerce-website)
